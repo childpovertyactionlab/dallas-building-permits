@@ -1,3 +1,3 @@
 # City of Dallas Building Permits
 
-## Last Updated ##/##/####
+### Last Updated ##/##/####

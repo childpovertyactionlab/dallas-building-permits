@@ -1,9 +1,9 @@
 # City of Dallas Building Permits
 
-Most Recent Data: **06/30/2021**
+Most Recent Data: **02/22/2023**
 
 ### Permit Types Included
-This repository contains all permit data for the City of Dallas from **01/01/2015** until **06/30/2021**
+This repository contains all permit data for the City of Dallas from **01/01/2017** until **12/31/2022**
 
 Due to github size limitations the following permit types are the only ones included in this repository.
 
